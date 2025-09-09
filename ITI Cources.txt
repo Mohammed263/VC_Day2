@@ -1,4 +1,0 @@
-Database
-Python
-Power BI
-Excel
